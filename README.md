@@ -1,7 +1,7 @@
 # WechatSignatureTools
 微信JS-SDK 1.0.0权限签名算法工具类，采用PHP语言编写。
 
-@author Snake<snakejordan@gmail.com>
+@author Snake snakejordan@gmail.com
 
 @copyright 20150119
 
