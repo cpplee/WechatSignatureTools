@@ -21,7 +21,7 @@ $config = $wechatSignatureTools->getConfig();
 
 2. 返回值为Array格式，参考：array('debug'=>false, 'appId'=>'w32k2iod893jllaf23', 'timestamp'=>100000, 'nonceStr'=>'1a2B3c4D5e6F7g8H', 'signature'=>'slk323cjofoaew32jsafw3fewqfa24fewslfe32a');
 
-exception:
+异常：
 
 5001: appId or appSecret is not set
 
